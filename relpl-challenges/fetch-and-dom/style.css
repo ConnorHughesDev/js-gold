@@ -1,0 +1,8 @@
+img {
+    display: block;
+    margin: auto;
+    border: solid rgb(130, 219, 13);
+    border-radius: 5px;
+    border-width: 5px;
+    padding: 3px;
+  }
